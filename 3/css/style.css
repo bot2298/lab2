@@ -1,0 +1,30 @@
+div{
+  min-height: 150px;
+  min-width: 800px;
+  position: absolute;
+}
+.full{
+  background: #08ddfc;
+  min-height: 620px;
+  min-width: 800px;
+}
+.clouds{
+  background: url(../svg/clouds.svg) no-repeat;
+
+  left: 260px;
+}
+.water{
+  background: url(../svg/water.svg) no-repeat;
+  top: 564px;
+}
+.wooden-ship{
+  background: url(../svg/wooden-ship.svg) no-repeat;
+  top: 424px;
+  left: 20px;
+}
+.world{
+  background: url(../svg/world.svg) no-repeat;
+
+  top: 125px;
+  height: 800px;
+}
